@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/christian-schlichtherle/neuron-di-at-play-for-scala.svg?branch=master)](https://travis-ci.org/christian-schlichtherle/neuron-di-at-play-for-scala)
+
 A [Giter8][g8] template for [Neuron DI @ Play for Scala](https://github.com/christian-schlichtherle/neuron-di/wiki/NeuronDIAtPlayForScalaTutorial).
 
     sbt new christian-schlichtherle/neuron-di-at-play-for-scala.g8
